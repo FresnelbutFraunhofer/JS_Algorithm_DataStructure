@@ -1,4 +1,4 @@
-## Case Study
+## Case Study (Factorialize a Number)
 
 Return the factorial of the provided integer.
 <br>
